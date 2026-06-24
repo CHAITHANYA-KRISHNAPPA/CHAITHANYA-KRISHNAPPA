@@ -20,6 +20,23 @@
 🎯 Focused on continuous learning and professional growth
 
 ---
+## 🔥 Featured Projects
+
+### 🏠 Energy-Efficient Smart Home System
+
+Developed a Wi-Fi-enabled smart home automation system using ESP32 with real-time device control and energy usage monitoring through a custom web dashboard. The system helps improve energy efficiency by visualizing power consumption and enabling remote appliance management.
+
+### ⚡ ELECTROYODHA – Educational Learning Platform
+
+Led the development of a student-focused educational website designed to simplify electronics concepts, ranging from basic components to Arduino applications. Built using HTML, CSS, and JavaScript to provide an intuitive and accessible learning experience.
+
+### 💎 Luxury Jewelry Website
+
+Designed and developed an elegant web application to showcase premium jewelry collections through a visually appealing and user-friendly interface. Implemented using HTML, CSS, SQL, and foundational React concepts.
+
+### 🌦️ Weather Web Application
+
+Developed an API-based weather application that fetches and displays real-time weather information, providing users with accurate weather updates through a simple and responsive interface.
 
 # 🛠️ Technical Skills
 
