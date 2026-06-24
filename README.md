@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Chaithanya Krishnappa
-
+# 👋 Hi, I'm Chaithanya 
 ### Electronics & Communication Engineering Student • IEEE Volunteer • Web Developer • Software Engineering Enthusiast
 
 🎓 Third-Year Electronics & Communication Engineering student | Passionate about Software Development, Open Source, and Technology. Dedicated to building projects, learning modern tools, and continuously improving programming and problem-solving skills through hands-on experience.
