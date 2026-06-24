@@ -1,48 +1,43 @@
 # 👋 Hi, I'm Chaithanya Krishnappa
 
-### Software Engineering Enthusiast • Web Developer • IEEE Volunteer • Open Source Contributor
+### Electronics & Communication Engineering Student • IEEE Volunteer • Web Developer • Software Engineering Enthusiast
 
-🎓 Third-Year Electronics & Communication Engineering Student  
-🏫 Vivekananda College of Engineering & Technology, Karnataka  
-📍 India  
-💡 Passionate about Software Development, Open Source, Web Technologies, and Continuous Learning
+🎓 Third-Year Electronics & Communication Engineering student | Passionate about Software Development, Open Source, and Technology. Dedicated to building projects, learning modern tools, and continuously improving programming and problem-solving skills through hands-on experience.
 
 ---
 
 # 🚀 About Me
 
-I am an Electronics & Communication Engineering student with a strong interest in software development, web technologies, and problem-solving.
+💻 Exploring Web Development and Software Engineering
 
-My interests span across Web Development, Programming, IoT, Embedded Systems, and Open-Source Contributions. I enjoy building practical projects, learning modern technologies, and contributing to technical communities while continuously improving my technical and professional skills.
+🌐 Contributing to Open Source Projects
 
-> *"Learning, Building, and Growing Every Day."*
+📚 Strengthening Programming Skills in C, Java, SQL
 
----
+🔧 Working on IoT, Embedded Systems, and Electronics Projects
 
-# 🔬 Areas of Interest
+🤝 Actively involved in IEEE volunteering and technical community initiatives
 
-- Web Development
-- Software Engineering
-- Open Source Contributions
-- Internet of Things (IoT)
-- Embedded Systems
-- Problem Solving & Programming
+🎯 Focused on continuous learning and professional growth
 
 ---
 
 # 🛠️ Technical Skills
 
 ### Programming Languages
+
 - C
 - Java
 - SQL
 
 ### Web Development
+
 - HTML
 - CSS
 - REST APIs
 
 ### Tools & Technologies
+
 - Git & GitHub
 - VS Code
 - Arduino IDE
@@ -56,17 +51,20 @@ My interests span across Web Development, Programming, IoT, Embedded Systems, an
 # 💼 Leadership & Experience
 
 ### Women in Engineering (WIE) Chair
+
 **IEEE VCET Student Branch**
 
-- Leading initiatives that promote technical growth and professional development among students.
-- Organizing workshops, technical events, and community engagement activities.
+- Leading initiatives that encourage technical growth and professional development among students.
+- Organizing workshops, events, and community engagement activities.
 
 ### Content Research Team Member
+
 **IEEE Bangalore Section**
 
 - Contributing to technical content development, research, and publication activities.
 
 ### Event Organizing Volunteer
+
 **IEEE Mangalore Subsection**
 
 - Assisting in the planning and execution of technical events, workshops, and student engagement programs.
@@ -79,26 +77,28 @@ My interests span across Web Development, Programming, IoT, Embedded Systems, an
 
 # 🏆 Achievements
 
-- 🥈 Second Prize – CODE-A-THON (CHATHURAM 2K25)
-- 🎯 Active IEEE Volunteer and Event Organizer
-- 🌟 Open Source Contributor
+🥈 Second Prize – CODE-A-THON (CHATHURAM 2K25)
+
+🎯 Active IEEE Volunteer and Event Organizer
+
+🌟 Contributor to Open Source Projects
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Current Focus
 
 - Full-Stack Web Development
 - Data Structures & Algorithms
 - Software Engineering Practices
 - IoT & Embedded Systems
-- Modern Development Tools
+- Open Source Contributions
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** chaithu.puttur@gmail.com
+📧 Email: chaithu.puttur@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/chaithanya-krishnappa
+💼 LinkedIn: linkedin.com/in/chaithanya-krishnappa
 
-💻 **GitHub:** https://github.com/CHAITHANYA-KRISHNAPPA
+💻 GitHub: github.com/CHAITHANYA-KRISHNAPPA
