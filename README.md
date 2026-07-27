@@ -50,7 +50,6 @@ Developed an API-based weather application that fetches and displays real-time w
 
 - HTML
 - CSS
-- 
 ### Electronics
 
 - Digita Electronics
