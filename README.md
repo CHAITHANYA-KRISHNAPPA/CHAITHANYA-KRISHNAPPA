@@ -50,7 +50,10 @@ Developed an API-based weather application that fetches and displays real-time w
 
 - HTML
 - CSS
-- REST APIs
+- 
+### Electronics
+
+- Digita Electronics
 
 ### Tools & Technologies
 
@@ -61,6 +64,7 @@ Developed an API-based weather application that fetches and displays real-time w
 - Power BI
 - MATLAB
 - ESP32
+- Keil u Vision
 
 ---
 
