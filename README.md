@@ -1,6 +1,6 @@
 # Hi there, I'm Chaithanya 👋
 
-**Electronics & Communication Engineering Student | IEEE Volunteer | Web Developer | Software Engineering Enthusiast**
+**Electronics & Communication Engineering Student 27’ Gra | IEEE WIE Chair | Passionate About Software Engineering, Digital ELectronics | Web Development | FPGA**
 
 Dedicated engineering student with academic excellence and strong interest in software development, digital electronics, and modern technologies. Passionate about building real-world projects, contributing to open source, and continuously improving programming, problem-solving, and technical leadership skills through hands-on experience.
 
