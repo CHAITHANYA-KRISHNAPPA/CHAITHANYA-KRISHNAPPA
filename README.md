@@ -1,4 +1,4 @@
-# Hi there, I'm Chaithanya K 👋
+# Hi there, I'm Chaithanya 👋
 
 **Electronics & Communication Engineering Student | IEEE Volunteer | Web Developer | Software Engineering Enthusiast**
 
