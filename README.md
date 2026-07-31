@@ -9,7 +9,7 @@ Dedicated engineering student with academic excellence and strong interest in so
 ## 🚀 About Me
 
 - 🎓 Third-Year Electronics & Communication Engineering student at **Vivekananda College of Engineering & Technology (VTU)**.
-- 💻 Passionate about **Software Development, Web Technologies, and Open Source**.
+- 💻 Passionate about **Software Development, Digital Electronics, and Open Source**.
 - 🌐 Actively contributing to open-source projects and continuously expanding technical knowledge.
 - 🔧 Experienced in **IoT, Embedded Systems, FPGA Design, and Digital Electronics**.
 - 📚 Strengthening programming skills in **C, Java, SQL**, and modern web technologies.
